@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/Modules/" />
+  <Folder Name="/Modules/Assessment/">
+    <Project Path="AssessmentBL/AssessmentBL.csproj" Id="a2b3a4ee-3566-4126-871c-6fb623fe2de2" />
+    <Project Path="AssessmentDA/AssessmentDA.csproj" Id="06f71c2a-22dc-4eae-8762-11d71f9d67c0" />
+  </Folder>
+  <Folder Name="/Modules/Content/">
+    <Project Path="ContentBL/ContentBL.csproj" />
+    <Project Path="ContentDA/ContentDA.csproj" />
+  </Folder>
+  <Folder Name="/Modules/Identity/">
+    <Project Path="UsersBL/UsersBL.csproj" />
+    <Project Path="UsersDA/UsersDA.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/Assessment.Tests/Assessment.Tests.csproj" />
+  </Folder>
+  <Project Path="AIIntegration/AIIntegration.csproj" />
+  <Project Path="ElectroWorld/Volt.csproj" />
+</Solution>

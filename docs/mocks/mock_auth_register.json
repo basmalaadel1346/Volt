@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "تم التسجيل بنجاح",
+  "data": {
+    "userId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "fullName": "Ahmed Ali",
+    "role": "Parent",
+    "authProvider": "Email",
+    "age": 35,
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIzZmE4NWY2NC01NzE3LTQ1NjItYjNmYy0yYzk2M2Y2NmFmYTYifQ.mock-signature",
+    "refreshToken": "cXVpY2tSZWZyZXNoVG9rZW5WYWx1ZUV4YW1wbGU=",
+    "accessTokenExpiresAt": "2026-09-10T12:15:00.0000000Z"
+  }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 7,
+    "userId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "topicId": 3,
+    "difficulty": "Easy",
+    "questionsAnsweredCount": 12,
+    "correctCount": 9,
+    "wrongCount": 3,
+    "hintsUsedCount": 3,
+    "lastQuizAttemptId": 42,
+    "lastPracticedAt": "2026-09-10T18:32:15.123",
+    "updatedAt": "2026-09-10T18:32:15.123"
+  },
+  {
+    "id": 8,
+    "userId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "topicId": 3,
+    "difficulty": "Medium",
+    "questionsAnsweredCount": 5,
+    "correctCount": 2,
+    "wrongCount": 3,
+    "hintsUsedCount": 4,
+    "lastQuizAttemptId": 42,
+    "lastPracticedAt": "2026-09-10T18:32:15.123",
+    "updatedAt": "2026-09-10T18:32:15.123"
+  }
+]

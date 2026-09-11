@@ -1,0 +1,36 @@
+{
+  "id": 103,
+  "quizId": 15,
+  "topicId": 3,
+  "questionText": "أي مكوّن يظهر في الصورة؟",
+  "questionType": "MultipleChoice",
+  "imageUrl": "/uploads/lessons/8f1c2b3a-6b4d-4e2a-9c1f-3d7e5a2b1c0d.png",
+  "difficulty": "Medium",
+  "displayOrder": 3,
+  "points": 2,
+  "isActive": true,
+  "createdAt": "2026-09-11T09:00:00",
+  "options": [
+    {
+      "id": 1006,
+      "optionText": "مقاومة",
+      "imageUrl": "/uploads/lessons/2c4e6a8b-1d3f-5a7c-9e1b-4f6a8c0e2d4f.png",
+      "isCorrect": true,
+      "displayOrder": 1
+    },
+    {
+      "id": 1007,
+      "optionText": null,
+      "imageUrl": "/uploads/lessons/9b1d3f5a-7c9e-4b2d-8f6a-1c3e5a7b9d0f.png",
+      "isCorrect": false,
+      "displayOrder": 2
+    },
+    {
+      "id": 1008,
+      "optionText": "مكثّف",
+      "imageUrl": null,
+      "isCorrect": false,
+      "displayOrder": 3
+    }
+  ]
+}

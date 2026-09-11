@@ -1,0 +1,82 @@
+{
+  "attemptId": 42,
+  "quizId": 15,
+  "startedAt": "2026-09-10T18:30:00.0000000Z",
+  "questions": [
+    {
+      "questionId": 101,
+      "questionText": "ما هو الجهد الكهربي؟",
+      "difficulty": "Easy",
+      "displayOrder": 1,
+      "points": 1,
+      "currentHint": null,
+      "options": [
+        {
+          "optionId": 1001,
+          "optionText": "فرق الجهد بين نقطتين",
+          "displayOrder": 1
+        },
+        {
+          "optionId": 1002,
+          "optionText": "مقاومة مرور التيار",
+          "displayOrder": 2
+        },
+        {
+          "optionId": 1003,
+          "optionText": "شدة التيار المار",
+          "displayOrder": 3
+        }
+      ]
+    },
+    {
+      "questionId": 102,
+      "questionText": "ما وحدة قياس المقاومة الكهربية؟",
+      "difficulty": "Medium",
+      "displayOrder": 2,
+      "points": 2,
+      "currentHint": null,
+      "options": [
+        {
+          "optionId": 1004,
+          "optionText": "الأوم",
+          "displayOrder": 1
+        },
+        {
+          "optionId": 1005,
+          "optionText": "الفولت",
+          "displayOrder": 2
+        },
+        {
+          "optionId": 1006,
+          "optionText": "الأمبير",
+          "displayOrder": 3
+        }
+      ]
+    },
+    {
+      "questionId": 103,
+      "questionText": "إيه اللي بيحصل للتيار لما المقاومة تزيد؟",
+      "difficulty": "Hard",
+      "displayOrder": 3,
+      "points": 3,
+      "currentHint": null,
+      "options": [
+        {
+          "optionId": 1007,
+          "optionText": "بيقل",
+          "displayOrder": 1
+        },
+        {
+          "optionId": 1008,
+          "optionText": "بيزيد",
+          "displayOrder": 2
+        },
+        {
+          "optionId": 1009,
+          "optionText": "مابيتغيرش",
+          "displayOrder": 3
+        }
+      ]
+    }
+  ]
+}

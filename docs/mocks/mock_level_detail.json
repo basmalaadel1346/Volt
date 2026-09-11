@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "message": "تمت العملية بنجاح",
+  "data": {
+    "id": 1,
+    "title": "مقدمة في الكهرباء",
+    "description": "مفاهيم أساسية",
+    "order": 1
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "_comment": "A real 401 has an EMPTY body plus a WWW-Authenticate: Bearer header. This file documents that — do not parse a body on 401.",
+  "_httpStatus": 401,
+  "_body": null
+}

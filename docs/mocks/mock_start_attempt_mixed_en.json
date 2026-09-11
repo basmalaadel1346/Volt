@@ -1,0 +1,104 @@
+{
+  "attemptId": 42,
+  "quizId": 15,
+  "startedAt": "2026-09-11T09:30:00.0000000Z",
+  "language": "en",
+  "languageFallbackApplied": false,
+  "questions": [
+    {
+      "questionId": 101,
+      "questionText": "What is voltage?",
+      "questionType": "MultipleChoice",
+      "imageUrl": null,
+      "difficulty": "Easy",
+      "displayOrder": 1,
+      "points": 1,
+      "currentHint": null,
+      "options": [
+        {
+          "optionId": 1001,
+          "optionText": "Electrical potential difference",
+          "imageUrl": null,
+          "displayOrder": 1
+        },
+        {
+          "optionId": 1002,
+          "optionText": "Resistance to current",
+          "imageUrl": null,
+          "displayOrder": 2
+        },
+        {
+          "optionId": 1003,
+          "optionText": "Rate of current flow",
+          "imageUrl": null,
+          "displayOrder": 3
+        }
+      ]
+    },
+    {
+      "questionId": 102,
+      "questionText": "Current flows from the negative terminal to the positive terminal inside the circuit.",
+      "questionType": "TrueFalse",
+      "imageUrl": null,
+      "difficulty": "Medium",
+      "displayOrder": 2,
+      "points": 2,
+      "currentHint": null,
+      "options": [
+        {
+          "optionId": 1004,
+          "optionText": "True",
+          "imageUrl": null,
+          "displayOrder": 1
+        },
+        {
+          "optionId": 1005,
+          "optionText": "False",
+          "imageUrl": null,
+          "displayOrder": 2
+        }
+      ]
+    },
+    {
+      "questionId": 103,
+      "questionText": "Which component is shown in the image?",
+      "questionType": "MultipleChoice",
+      "imageUrl": "/uploads/lessons/8f1c2b3a-6b4d-4e2a-9c1f-3d7e5a2b1c0d.png",
+      "difficulty": "Medium",
+      "displayOrder": 3,
+      "points": 2,
+      "currentHint": null,
+      "options": [
+        {
+          "optionId": 1006,
+          "optionText": "Resistor",
+          "imageUrl": "/uploads/lessons/2c4e6a8b-1d3f-5a7c-9e1b-4f6a8c0e2d4f.png",
+          "displayOrder": 1
+        },
+        {
+          "optionId": 1007,
+          "optionText": null,
+          "imageUrl": "/uploads/lessons/9b1d3f5a-7c9e-4b2d-8f6a-1c3e5a7b9d0f.png",
+          "displayOrder": 2
+        },
+        {
+          "optionId": 1008,
+          "optionText": "Capacitor",
+          "imageUrl": null,
+          "displayOrder": 3
+        }
+      ]
+    },
+    {
+      "questionId": 104,
+      "questionText": "Explain in your own words why a lamp lights up when the circuit is closed.",
+      "questionType": "Essay",
+      "imageUrl": null,
+      "difficulty": "Hard",
+      "displayOrder": 4,
+      "points": 3,
+      "currentHint": null,
+      "options": []
+    }
+  ]
+}

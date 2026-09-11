@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "message": "تمت العملية بنجاح",
+  "data": [
+    {
+      "id": 1,
+      "title": "مقدمة في الكهرباء",
+      "description": "مفاهيم أساسية",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "title": "الدوائر البسيطة",
+      "description": null,
+      "order": 2
+    },
+    {
+      "id": 3,
+      "title": "المستشعرات",
+      "description": "حساسات الحرارة والضوء",
+      "order": 3
+    }
+  ]
+}

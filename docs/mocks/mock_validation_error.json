@@ -1,0 +1,11 @@
+{
+  "type": "https://tools.ietf.org/html/rfc7231#section-6.5.1",
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "00-8f1c2b3a6b4d4e2a9c1f3d7e5a2b1c0d-1a2b3c4d5e6f7a8b-00",
+  "errors": {
+    "quizId": [
+      "The value 'abc' is not valid."
+    ]
+  }
+}

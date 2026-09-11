@@ -1,0 +1,43 @@
+{
+  "attemptId": 42,
+  "totalQuestions": 4,
+  "autoGradedQuestions": 3,
+  "pendingEssayQuestions": 1,
+  "correctAnswers": 2,
+  "wrongAnswers": 1,
+  "scorePercentage": 66.67,
+  "language": "en",
+  "languageFallbackApplied": false,
+  "retryQuestions": [
+    {
+      "questionId": 101,
+      "questionText": "What is voltage?",
+      "questionType": "MultipleChoice",
+      "imageUrl": null,
+      "difficulty": "Easy",
+      "displayOrder": 1,
+      "points": 1,
+      "currentHint": "Think about which unit is named after the scientist who linked voltage and current.",
+      "options": [
+        {
+          "optionId": 1001,
+          "optionText": "Electrical potential difference",
+          "imageUrl": null,
+          "displayOrder": 1
+        },
+        {
+          "optionId": 1002,
+          "optionText": "Resistance to current",
+          "imageUrl": null,
+          "displayOrder": 2
+        },
+        {
+          "optionId": 1003,
+          "optionText": "Rate of current flow",
+          "imageUrl": null,
+          "displayOrder": 3
+        }
+      ]
+    }
+  ]
+}

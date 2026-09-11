@@ -1,0 +1,39 @@
+{
+  "attemptId": 43,
+  "quizId": 15,
+  "startedAt": "2026-09-11T09:35:00.0000000Z",
+  "language": "ar",
+  "languageFallbackApplied": true,
+  "questions": [
+    {
+      "questionId": 101,
+      "questionText": "ما هو الجهد الكهربائي؟",
+      "questionType": "MultipleChoice",
+      "imageUrl": null,
+      "difficulty": "Easy",
+      "displayOrder": 1,
+      "points": 1,
+      "currentHint": null,
+      "options": [
+        {
+          "optionId": 1001,
+          "optionText": "فرق الجهد الكهربائي",
+          "imageUrl": null,
+          "displayOrder": 1
+        },
+        {
+          "optionId": 1002,
+          "optionText": "Resistance to current",
+          "imageUrl": null,
+          "displayOrder": 2
+        },
+        {
+          "optionId": 1003,
+          "optionText": "Rate of current flow",
+          "imageUrl": null,
+          "displayOrder": 3
+        }
+      ]
+    }
+  ]
+}

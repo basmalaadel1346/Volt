@@ -1,0 +1,22 @@
+{
+  "mistakes": [
+    {
+      "questionId": 101,
+      "selectedOptionId": 1002
+    },
+    {
+      "questionId": 102,
+      "selectedOptionId": 1004
+    },
+    {
+      "questionId": 103,
+      "selectedOptionId": 1006
+    }
+  ],
+  "essayAnswers": [
+    {
+      "questionId": 104,
+      "answerText": "Because closing the circuit gives the current a complete path, so it flows through the lamp and makes it glow."
+    }
+  ]
+}

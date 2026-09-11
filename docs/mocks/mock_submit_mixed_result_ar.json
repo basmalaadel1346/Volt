@@ -1,0 +1,43 @@
+{
+  "attemptId": 42,
+  "totalQuestions": 4,
+  "autoGradedQuestions": 3,
+  "pendingEssayQuestions": 1,
+  "correctAnswers": 2,
+  "wrongAnswers": 1,
+  "scorePercentage": 66.67,
+  "language": "ar",
+  "languageFallbackApplied": false,
+  "retryQuestions": [
+    {
+      "questionId": 101,
+      "questionText": "ما هو الجهد الكهربائي؟",
+      "questionType": "MultipleChoice",
+      "imageUrl": null,
+      "difficulty": "Easy",
+      "displayOrder": 1,
+      "points": 1,
+      "currentHint": "افتكر إن الوحدة اسمها على اسم العالم اللي ربط بين الجهد والتيار.",
+      "options": [
+        {
+          "optionId": 1001,
+          "optionText": "فرق الجهد الكهربائي",
+          "imageUrl": null,
+          "displayOrder": 1
+        },
+        {
+          "optionId": 1002,
+          "optionText": "مقاومة مرور التيار",
+          "imageUrl": null,
+          "displayOrder": 2
+        },
+        {
+          "optionId": 1003,
+          "optionText": "معدل سريان التيار",
+          "imageUrl": null,
+          "displayOrder": 3
+        }
+      ]
+    }
+  ]
+}

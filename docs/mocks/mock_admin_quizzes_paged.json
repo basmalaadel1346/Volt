@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 15,
+      "title": "اختبار الدائرة الكهربية",
+      "description": "أسئلة على مقدمة الدوائر",
+      "quizType": "LessonQuiz",
+      "levelId": null,
+      "lessonId": 5,
+      "isActive": true,
+      "createdAt": "2026-08-10T09:00:00",
+      "updatedAt": null
+    },
+    {
+      "id": 16,
+      "title": "تقييم المستوى الأول",
+      "description": null,
+      "quizType": "LevelAssessment",
+      "levelId": 1,
+      "lessonId": null,
+      "isActive": true,
+      "createdAt": "2026-08-12T11:20:00",
+      "updatedAt": "2026-09-01T14:05:00"
+    }
+  ],
+  "totalCount": 2,
+  "pageNumber": 1,
+  "pageSize": 20
+}

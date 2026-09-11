@@ -1,0 +1,29 @@
+{
+  "id": 102,
+  "quizId": 15,
+  "topicId": 3,
+  "questionText": "التيار يسري من الطرف السالب إلى الطرف الموجب داخل الدائرة.",
+  "questionType": "TrueFalse",
+  "imageUrl": null,
+  "difficulty": "Medium",
+  "displayOrder": 2,
+  "points": 2,
+  "isActive": true,
+  "createdAt": "2026-09-11T09:00:00",
+  "options": [
+    {
+      "id": 1004,
+      "optionText": "صح",
+      "imageUrl": null,
+      "isCorrect": false,
+      "displayOrder": 1
+    },
+    {
+      "id": 1005,
+      "optionText": "خطأ",
+      "imageUrl": null,
+      "isCorrect": true,
+      "displayOrder": 2
+    }
+  ]
+}

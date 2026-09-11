@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "message": "تمت العملية بنجاح",
+  "data": [
+    {
+      "id": 5,
+      "levelId": 1,
+      "title": "مقدمة عن الدائرة الكهربية",
+      "description": null,
+      "sortOrder": 1,
+      "isPublished": true,
+      "createdAt": "2026-08-05T09:00:00"
+    },
+    {
+      "id": 6,
+      "levelId": 1,
+      "title": "القياسات الكهربية",
+      "description": "الفولت والأمبير",
+      "sortOrder": 2,
+      "isPublished": false,
+      "createdAt": "2026-09-10T10:00:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "تمت العملية بنجاح",
+  "data": {
+    "id": 5,
+    "levelId": 1,
+    "title": "مقدمة عن الدائرة الكهربية",
+    "description": null,
+    "sortOrder": 1,
+    "isPublished": true,
+    "createdAt": "2026-08-05T09:00:00",
+    "contents": [
+      {
+        "id": 10,
+        "lessonId": 5,
+        "contentTypeId": 1,
+        "contentTypeName": "Text",
+        "content": "الدائرة الكهربية بتتكون من مصدر للجهد وموصلات وحمل.",
+        "mediaUrl": null,
+        "sortOrder": 1
+      },
+      {
+        "id": 11,
+        "lessonId": 5,
+        "contentTypeId": 2,
+        "contentTypeName": "Image",
+        "content": null,
+        "mediaUrl": "/uploads/lessons/8f1c2b3a-6b4d-4e2a-9c1f-3d7e5a2b1c0d.png",
+        "sortOrder": 2
+      },
+      {
+        "id": 12,
+        "lessonId": 5,
+        "contentTypeId": 3,
+        "contentTypeName": "TextAndImage",
+        "content": "المقاومة بتقلل شدة التيار المار في الدائرة.",
+        "mediaUrl": "/uploads/lessons/2c4e6a8b-1d3f-5a7c-9e1b-4f6a8c0e2d4f.png",
+        "sortOrder": 3
+      }
+    ]
+  }
+}
